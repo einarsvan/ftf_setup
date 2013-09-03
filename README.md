@@ -1,4 +1,4 @@
 ftf_setup
 =========
 
-General setup for FTF
+General setup for ftf-udvikling...
