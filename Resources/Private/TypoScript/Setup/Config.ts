@@ -3,6 +3,10 @@
 ##
 
 config {
+
+	# Set the baseURL
+	baseURL = {$domain}
+
 	# Remove the admin panel
 	admPanel = 0
 

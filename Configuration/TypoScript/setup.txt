@@ -10,3 +10,6 @@
 
 # Meta tags
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:ftf_setup/Resources/Private/TypoScript/Setup/MetaTags.ts">
+
+# Content parsing
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:ftf_setup/Resources/Private/TypoScript/Setup/Content.ts">

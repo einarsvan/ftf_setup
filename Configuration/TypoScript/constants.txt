@@ -1,7 +1,7 @@
 ##
-# General constants for this site
+# General constants for a new site
 ##
 
 # Set the domain
-domain = http://www.ftf.dk/
+domain = http://www.somedomain.dk/
 
