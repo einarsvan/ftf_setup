@@ -1,0 +1,7 @@
+##
+# General constants for this site
+##
+
+# Set the domain
+domain = http://www.ftf.dk/
+
